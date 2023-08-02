@@ -1,40 +1,19 @@
 import React from "react";
-import { css } from "@emotion/core";
 
-import Navigation from "./nav";
-
-const Header = () => {
+const Header = (props) => {
   return (
-    <header
-      css={css`
-        background-color: #fff;
-        padding: 0 1rem 0rem 1rem;
-      `}
-    >
-      <div
-        css={css`
-          max-width: 1200px;
-          margin: 0 auto;
+    <div className="row justify-content-center">
+      <div className="col-md-10 main-title">
+        <h1>Website</h1>
 
-          @media (min-width: 768px) {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-          }
-        `}
-      >
-        <h1
-          css={css`
-            color: #000;
-            text-align: center;
-          `}
-        >
-          DarshanWebDev
-        </h1>
+        <h2>under construction</h2>
 
-        <Navigation />
+        <p>
+          We are working hard to bring the right technology services to the
+          global market!. You will soon hear from us.
+        </p>
       </div>
-    </header>
+    </div>
   );
 };
 
