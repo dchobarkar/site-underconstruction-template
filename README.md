@@ -15,7 +15,7 @@ A template to show on your domain till the actual website is being built
     $ npm install
     $ npm start
 
-Nevigate to `http://localhost:3000`  
+Nevigate to `http://localhost:8000`  
  Run `npm run build` to build the project. The build artifacts will be stored in the `public` directory.
 
 ### Credits
