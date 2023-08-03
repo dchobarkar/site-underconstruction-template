@@ -12,6 +12,7 @@
     "Professional under construction template"
   ],
   "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
@@ -28,5 +29,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dchobarkar/site-underconstruction-template"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
