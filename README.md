@@ -23,13 +23,6 @@ A template to show on your domain till the actual website is being built
 - CSS
 - JavaScript
 - Based on React library
-
-### Technology Stack
-
-- HTML
-- CSS
-- JavaScript
-- Based on React library
 - Gatsby
 
 ### Installation
