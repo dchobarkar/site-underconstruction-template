@@ -1,9 +1,10 @@
 {
   "name": "site-under-construction-template",
+  "description": "Craft a captivating under construction page for your Gatsby website with our professionally designed template. With its responsive layout, sleek design, and easy customization options, you can create a visually stunning and engaging under construction page to keep your visitors informed and intrigued. Seamlessly integrate with Gatsby and take advantage of advanced features like a countdown timer, progress bar, and social media links. Get your site ready to make a grand entrance with our Gatsby-based under construction template.",
+  "author": "Darshan Chobarkar <contact@darshanwebdev.com> (https://darshanwebdev.com)",
   "version": "1.0.0",
   "private": true,
-  "description": "Craft a captivating under construction page for your Gatsby website with our professionally designed template. With its responsive layout, sleek design, and easy customization options, you can create a visually stunning and engaging under construction page to keep your visitors informed and intrigued. Seamlessly integrate with Gatsby and take advantage of advanced features like a countdown timer, progress bar, and social media links. Get your site ready to make a grand entrance with our Gatsby-based under construction template.",
-  "author": "Darshan Chobarkar",
+  "license": "MIT",
   "keywords": [
     "Gatsby under construction template",
     "Responsive coming soon page",
